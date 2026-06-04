@@ -1,6 +1,11 @@
 # Full-Stack Travel & Tour Booking Application
 
-A dynamic, full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application designed to facilitate seamless online travel planning and tour bookings. 
+A dynamic, full-stack MERN (MongoDB, Express.js, React.js, Node.js) web application designed to facilitate seamless online travel planning and tour bookings.
+
+## 🔗 Live Frontend Demo
+- **Click here to explore the user interface:** https://travel-frontend-5qqf.onrender.com
+
+---
 
 ## 🛠️ Tech Stack & Architecture
 
@@ -15,8 +20,8 @@ A dynamic, full-stack MERN (MongoDB, Express.js, React.js, Node.js) web applicat
 - **Authentication:** JSON Web Tokens (JWT) & bcrypt encryption
 
 ## ✨ Key Features
-- **User Authentication:** Secure user registration and login functionality.
-- **Dynamic Tour Listings:** Fetches available tour packages dynamically from the backend.
-- **Advanced Booking System:** Integrated booking form with date, capacity selection, and price calculation.
-- **Review System:** Users can submit ratings and testimonials for specific tours.
-- **Search & Filter:** Functional search bar to filter destinations based on location, distance, and group size.
+- **User Authentication:** Secure user registration and login user interface layouts.
+- **Dynamic Tour Listings:** Responsive cards and pages showcasing tour destinations.
+- **Advanced Booking System:** Integrated layout forms with date and capacity selection.
+- **Review System:** Dedicated visual sections for user ratings and testimonials.
+- **Search & Filter:** Functional search bar component to filter destinations based on location, distance, and group size.
